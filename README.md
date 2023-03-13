@@ -30,8 +30,7 @@ Evaluasi metrik yang akan digunakan adalah RMSE, MAE, dan MAPE, di mana RMSE ada
 Selain itu, kita juga bisa menggunakan nilai R-squared atau adj. R-squared jika model yang nanti terpilih sebagai final model adalah model linear. Nilai R-squared digunakan untuk mengetahui seberapa baik model dapat merepresentasikan varians keseluruhan data. Semakin mendekati 1, maka semakin fit pula modelnya terhadap data observasi. Namun, metrik ini tidak valid untuk model non-linear.
 
 ## Data Description
-A public dataset from kaggle called "Trending Youtube Video Statistics" built using YouTube's API Services. I will be using the "USVideos.csv" and "US_category_id.json" files, which containes more than 40,000 observations for trending videos in the United States. 
-
+Dataset yang digunakan adalah public dataset dari kaggle dengan nama "California Housing Price". Dataset yang digunakan adalah "housing.csv", yang mengandung lebih dari 14000 data mengenai rumah di California di tahun 1990
 
 
 
